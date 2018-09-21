@@ -1,11 +1,16 @@
 _repo: Carols-of-Canada-Etc-Etc_54271
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54271-h/images/i_cover.jpg
 creator:
   author:
     agent_name: MacLeod, Mrs. Elizabeth S. (MacQueen)
     gutenberg_agent_id: '47796'
     url: http://www.gutenberg.org/2009/agents/47796
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54271#Carols-of-Canada-Etc-Etc
 gutenberg_issued: '2017-03-02'
 gutenberg_type: Text
 identifiers:
